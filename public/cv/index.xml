@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>CV on Xavier Xi Zhang</title>
-    <link>http://localhost:1313/cv/</link>
-    <description>Recent content in CV on Xavier Xi Zhang</description>
+    <title>CV on Xavier Xi Zhang 张曦</title>
+    <link>http://localhost:58136/cv/</link>
+    <description>Recent content in CV on Xavier Xi Zhang 张曦</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>zh-cn</language>
-    <atom:link href="http://localhost:1313/cv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:58136/cv/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

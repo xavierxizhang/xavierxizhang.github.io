@@ -2,5 +2,4 @@
 title: "Teaching"
 ---
 
-- Teaching Assistant, **Course Name**, University, Term  
-- Guest lecture, **Topic**, Term
+Tutorial materials and handouts will be posted under each course page.
