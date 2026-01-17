@@ -1,0 +1,4 @@
+baseURL = "https://xavierxizhang.github.io/"
+languageCode = "zh-cn"
+title = "Xavier Z."
+theme = "ananke"
