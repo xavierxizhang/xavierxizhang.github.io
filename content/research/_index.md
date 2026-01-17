@@ -7,7 +7,3 @@ title: "Research"
 - Mechanism Design
 - Auction Theory
 
-## Projects
-### Project 1 — [Honours Thsis]
-Forthcoming...
-
