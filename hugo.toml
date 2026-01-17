@@ -2,3 +2,24 @@ baseURL = "https://xavierxizhang.github.io/"
 languageCode = "zh-cn"
 title = "Xavier Z."
 theme = "ananke"
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+  [[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 3
+  [[menu.main]]
+    name = "CV"
+    url = "/cv/"
+    weight = 4
+  [[menu.main]]
+    name = "My Story"
+    url = "/my-story/"
+    weight = 5
