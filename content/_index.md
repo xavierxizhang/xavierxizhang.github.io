@@ -8,5 +8,4 @@ I am also an **academic tutor** in both the School of Economics and the School o
 
 
 - Email: uqxzha56@uq.edu.au  
-- GitHub: https://github.com/xavierxizhang
 - LinkedIn: https://www.linkedin.com/in/xavier-xi-zhang-77ab9a31b/

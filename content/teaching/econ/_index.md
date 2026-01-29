@@ -3,4 +3,4 @@ title: "Economics"
 ---
 
 Courses:
-- [ECON3010](/teaching/econ/econ3010/)
+- [ECON1050](/teaching/econ/econ1050/)
