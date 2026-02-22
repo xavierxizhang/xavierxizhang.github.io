@@ -20,6 +20,6 @@ theme = "PaperMod"
     url = "/cv/"
     weight = 4
   [[menu.main]]
-    name = "My Story"
-    url = "/my-story/"
+    name = "Blog"
+    url = "/blog/"
     weight = 5

@@ -7,5 +7,6 @@ I am currently an **Honours student in Economics** at the University of Queensla
 I am also an **academic tutor** in both the School of Economics and the School of Mathematics and Physics at UQ; you can find more information about my teaching in the **“Teaching”** section.
 
 
-- Email: uqxzha56@uq.edu.au  
+- Email: xavier.zhang@uq.edu.au  
+Note: Students should contact me via consultation hours (Econ students) or the Ed Discussion Board (Math students).
 - LinkedIn: https://www.linkedin.com/in/xavier-xi-zhang-77ab9a31b/
