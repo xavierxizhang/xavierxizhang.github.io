@@ -2,6 +2,8 @@ baseURL = "https://xavierxizhang.github.io/"
 languageCode = "zh-cn"
 title = "Xavier Xi Zhang 张曦"
 theme = "PaperMod"
+[params]
+  author = "Xavier (Xi) Zhang"
 [menu]
   [[menu.main]]
     name = "Home"
