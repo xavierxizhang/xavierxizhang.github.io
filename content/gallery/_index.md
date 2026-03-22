@@ -4,7 +4,7 @@ title: "Gallery"
 
 I enjoy taking notes in LaTeX, which gives me a sense of accomplishment (a habit I picked up from my friend Trisztan). Below are some of the course notes I’ve written:
 
-Latest update: 23/03/2026
+Latest update: 22/03/2026
 
 **ECON6101 Microeconomics for Honours**: [Here](/files/ECON6101_Note.pdf)
 
