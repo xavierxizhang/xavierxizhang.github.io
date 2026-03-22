@@ -11,4 +11,5 @@ I will upload the tutorial slides before class.
 
 - **Week 2**: [Here](/econ1050/ECON1050_week2.pdf)
 - **Week 3**: [Here](/econ1050/ECON1050_week3.pdf)
-- **Week 4**: [Here](/econ1050/ECON1050_week4.pdf)
+- **Week 4**: [Here](/econ1050/ECON1050_week4.pdf); [Annotated version](/econ1050/ECON1050_week4_annotated.pdf)
+- **Week 5**: [Here](/econ1050/ECON1050_week5.pdf)
