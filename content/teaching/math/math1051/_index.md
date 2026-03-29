@@ -9,4 +9,4 @@ Couse Profile: https://course-profiles.uq.edu.au/course-profiles/MATH1051-22008-
 Some useful stuff:
 
 - **Week 2**: [Here](/math1051/MATH1051_week2.pdf)
-- **Week 2**: [Annotated slides](/math1051/MATH1051_week4.pdf)
+- **Week 4**: [Annotated slides](/math1051/MATH1051_week4.pdf)
