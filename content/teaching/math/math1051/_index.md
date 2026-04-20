@@ -10,3 +10,4 @@ Some useful stuff:
 
 - **Week 2**: [Here](/math1051/MATH1051_week2.pdf)
 - **Week 4**: [Annotated slides](/math1051/MATH1051_week4.pdf)
+- **Week 6**: [Annotated slides](/math1051/MATH1051_week6.pdf)
