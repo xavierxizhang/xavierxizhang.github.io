@@ -16,4 +16,5 @@ I will upload the tutorial slides before class.
 - **Week 6**: Enjoy your Good Friday!
 - **Week 7**: [Here](/econ1050/ECON1050_week7.pdf); [Annotated version](/econ1050/ECON1050_week7_annotated.pdf)
 - **Week 8**: [Here](/econ1050/ECON1050_week8.pdf); [Annotated version](/econ1050/ECON1050_week8_annotated.pdf)
-- **Week 9**: [Here](/econ1050/ECON1050_week9.pdf)
+- **Week 9**: [Here](/econ1050/ECON1050_week9.pdf); [Annotated version](/econ1050/ECON1050_week9_annotated.pdf)
+- **Week 10**: [Here](/econ1050/ECON1050_week10.pdf)

@@ -30,4 +30,4 @@ Latest update: 30/03/2026
 
 **MATH2400 Real Analysis**: [1st Half](/files/MATH2400_First_Half.pdf) and [2rd Half](/files/MATH2400_Second_Half.pdf)
 
-**STAT3404 Probability Models and Stochastic Processes**: [Here](/files/STAT3004.pdf)
+**STAT3004 Probability Models and Stochastic Processes**: [Here](/files/STAT3004.pdf)
