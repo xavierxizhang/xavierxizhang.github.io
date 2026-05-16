@@ -4,7 +4,7 @@ title: "ECON1050"
 Course Profile: https://course-profiles.uq.edu.au/course-profiles/ECON1050-20797-7620#course-overview
 
 ## Consultation
-My consultation hours are every Tuesday from 2–3 pm, at 39-125B. I may leave 10 mins early...
+My consultation hours are every Tuesday from 2–3 pm, at 39-125B. For week 12 and 13, I have additional consultations, which are every Monday from 10-11 am, at 39-125A.
 
 ## Tutorial Slides
 I will upload the tutorial slides before class.
@@ -18,4 +18,5 @@ I will upload the tutorial slides before class.
 - **Week 8**: [Here](/econ1050/ECON1050_week8.pdf); [Annotated version](/econ1050/ECON1050_week8_annotated.pdf)
 - **Week 9**: [Here](/econ1050/ECON1050_week9.pdf); [Annotated version](/econ1050/ECON1050_week9_annotated.pdf)
 - **Week 10**: [Here](/econ1050/ECON1050_week10.pdf); [Annotated version](/econ1050/ECON1050_week10_annotated.pdf)
-- **Week 11**: [Here](/econ1050/ECON1050_week11.pdf);
+- **Week 11**: [Here](/econ1050/ECON1050_week11.pdf); [Annotated version](/econ1050/ECON1050_week11_annotated.pdf)
+- **Week 12**: [Here](/econ1050/ECON1050_week12.pdf)
