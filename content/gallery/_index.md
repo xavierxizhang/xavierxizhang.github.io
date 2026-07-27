@@ -2,7 +2,7 @@
 title: "Gallery"
 ---
 
-I enjoy taking notes in LaTeX, which gives me a sense of accomplishment (a habit I picked up from my friend Trisztan). Below are some of the course notes I’ve written:
+I enjoy taking notes in LaTeX. Below are some of the course notes I’ve written:
 
 Latest update: 27/7/2026
 
