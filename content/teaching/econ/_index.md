@@ -3,4 +3,4 @@ title: "Economics"
 ---
 
 Courses:
-ECON1050
+ECON1050, ECON2050

@@ -8,7 +8,7 @@ I will upload my CV here soon. Below is my education:
 
 **The University of Queensland (UQ)** — *Bachelor of Economics (Honours)*  
 *Feb 2026 – Dec 2026*  
-- Ongoing.
+- Ongoing. Current GPA: **7.0/7.0**
 
 **The University of Queensland (UQ)** — *Bachelor of Economics*  
 *Jul 2024 – Dec 2025*  
