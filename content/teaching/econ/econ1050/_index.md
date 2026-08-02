@@ -4,12 +4,12 @@ title: "ECON1050"
 Course Profile: https://course-profiles.uq.edu.au/course-profiles/ECON1050-60754-7660#course-overview
 
 ## Consultation
-My consultation hours are every Thursday from 12:30–2 pm, at 39-125A.
+My consultation hours are every Monday from 11 am – 12:30 pm, at 39-125A.
 
 ## Tutorial Slides
 I will upload the tutorial slides before class.
 
-- **Week 2**: 
+- **Week 2**: [Here](/econ1050/26S2/ECON1050_week2.pdf)
 
 
 ## Old Materials
