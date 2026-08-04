@@ -9,7 +9,7 @@ My consultation hours are every Monday from 11 am – 12:30 pm, at 39-125B.
 ## Tutorial Slides
 I will upload the tutorial slides before class and the annotated version after class.
 
-- **Week 2**: [Here](/econ1050/26S2/ECON1050_week2.pdf)
+- **Week 2**: [Here](/econ1050/26S2/ECON1050_week2.pdf); [Annotated version](/econ1050/26S2/ECON1050_week2_annotated.pdf)
 
 
 ## Old Materials
