@@ -9,4 +9,4 @@ I am also an **academic tutor** in both the School of Economics and the School o
 
 - Email: xavier.zhang@uq.edu.au  
 Note: Students should contact me via consultation hours (Econ students) or the Ed Discussion Board (Math students).
-- LinkedIn: https://www.linkedin.com/in/xavier-xi-zhang-77ab9a31b/
+- LinkedIn: [XavierXiZhang](https://www.linkedin.com/in/xavier-xi-zhang-77ab9a31b/)

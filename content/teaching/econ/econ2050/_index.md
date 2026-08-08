@@ -1,7 +1,7 @@
 ---
 title: "ECON2050"
 ---
-Course Profile: https://course-profiles.uq.edu.au/course-profiles/ECON2050-60755-7660#course-overview
+[Course Profile Link](https://course-profiles.uq.edu.au/course-profiles/ECON2050-60755-7660#course-overview)
 
 ## Consultation
 My consultation hours are every Thursday from 12:30 pm to 2 pm, at 39-125A.
