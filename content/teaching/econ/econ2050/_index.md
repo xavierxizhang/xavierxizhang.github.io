@@ -11,3 +11,4 @@ I will upload the tutorial slides before class and the annotated version after c
 
 - **Week 2**: [Here](/econ2050/26S2/ECON2050_week2.pdf); [Annotated version](/econ2050/26S2/ECON2050_week2_annotated.pdf)
 - **Week 3**: Enjoy your Holiday!
+- **Week 4**: [Here](/econ2050/26S2/ECON2050_week4.pdf);
