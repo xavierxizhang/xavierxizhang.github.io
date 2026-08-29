@@ -13,6 +13,7 @@ I will upload the tutorial slides before class and the annotated version after c
 - **Week 3**: [Here](/econ1050/26S2/ECON1050_week3.pdf); [Annotated version](/econ1050/26S2/ECON1050_week3_annotated.pdf)
 - **Week 4**: [Here](/econ1050/26S2/ECON1050_week4.pdf); [Annotated version](/econ1050/26S2/ECON1050_week4_annotated.pdf)
 - **Week 5**: [Here](/econ1050/26S2/ECON1050_week5.pdf); [Annotated version](/econ1050/26S2/ECON1050_week5_annotated.pdf)
+- **Week 6**: [Here](/econ1050/26S2/ECON1050_week6.pdf);
 
 ## Old Materials
 
