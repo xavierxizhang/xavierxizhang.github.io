@@ -1,5 +1,7 @@
 ---
-title: "Gallery"
+title: "Notes"
+aliases:
+  - /gallery/
 ---
 
 I enjoy taking notes in LaTeX. Below are some of the course notes I’ve written:

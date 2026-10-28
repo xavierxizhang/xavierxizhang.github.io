@@ -26,6 +26,6 @@ theme = "PaperMod"
     url = "/blog/"
     weight = 5
   [[menu.main]]
-    name = "Gallery"
-    url = "/gallery/"
+    name = "Notes"
+    url = "/notes/"
     weight = 6
