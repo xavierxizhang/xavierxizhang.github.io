@@ -7,7 +7,7 @@
   align-items: baseline;
   justify-content: space-between;
   gap: 24px;
-  margin: 24px 0;
+  margin: 24px 0 12px;
 }
 
 .cv-open {
@@ -20,6 +20,12 @@
 
 .cv-open:hover {
   color: var(--primary);
+}
+
+.cv-updated {
+  margin: 0 0 16px;
+  color: var(--secondary);
+  font-size: 16px;
 }
 
 .cv-viewer {

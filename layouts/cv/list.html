@@ -4,6 +4,9 @@
   <h1>{{ .Title }}</h1>
   <a class="cv-open" href="{{ $pdf }}" target="_blank" rel="noopener">Open PDF &nearr;</a>
 </header>
+{{ with .Params.cv_updated }}
+<p class="cv-updated">Latest update: {{ . }}</p>
+{{ end }}
 <div class="cv-viewer" role="region" aria-label="Curriculum vitae of Xi (Xavier) Zhang" tabindex="0" aria-busy="true"
   data-pdf="{{ $pdf }}"
   data-renderer="{{ "vendor/pdfjs/5.6.205/pdf.min.mjs" | relURL }}"
