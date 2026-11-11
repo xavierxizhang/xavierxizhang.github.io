@@ -1,4 +1,10 @@
-{{ if eq .Section "cv" }}
-  {{ $css := resources.Get "css/cv.css" | minify | fingerprint }}
+{{ $stylesheet := "" }}
+{{ if .IsHome }}
+  {{ $stylesheet = "css/home.css" }}
+{{ else if eq .Section "cv" }}
+  {{ $stylesheet = "css/cv.css" }}
+{{ end }}
+{{ with $stylesheet }}
+  {{ $css := resources.Get . | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" crossorigin="anonymous">
 {{ end }}

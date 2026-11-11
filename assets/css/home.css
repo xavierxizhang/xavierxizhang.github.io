@@ -1,0 +1,47 @@
+.main {
+  --main-width: 880px;
+}
+
+.home-intro {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) clamp(164px, 21vw, 188px);
+  align-items: center;
+  gap: clamp(24px, 5vw, 56px);
+  padding-block: clamp(20px, 4vw, 36px);
+}
+
+.home-bio .post-content {
+  margin: 0;
+}
+
+.home-bio .post-content > :last-child {
+  margin-bottom: 0;
+}
+
+.home-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+}
+
+.home-photo figcaption {
+  margin-top: 10px;
+  color: var(--secondary);
+  font-size: 14px;
+  line-height: 1.5;
+  text-align: center;
+  text-wrap: balance;
+}
+
+@media (max-width: 720px) {
+  .home-intro {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 24px;
+  }
+
+  .home-photo {
+    width: min(188px, 100%);
+    justify-self: center;
+  }
+}

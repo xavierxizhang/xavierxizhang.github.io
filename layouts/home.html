@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="home-intro">
+  <div class="home-bio">
+    <div class="post-content">{{ .Content }}</div>
+  </div>
+  {{ with .Params.football_photo }}
+  <figure class="home-photo">
+    <img src="{{ .src | relURL }}" alt="{{ .alt }}" width="{{ .width }}" height="{{ .height }}">
+    <figcaption>{{ .caption }}</figcaption>
+  </figure>
+  {{ end }}
+</div>
+{{ end }}
