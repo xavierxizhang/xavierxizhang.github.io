@@ -1,0 +1,16 @@
+{{ define "main" }}
+{{ $pdf := .Params.pdf | relURL }}
+<header class="page-header cv-header">
+  <h1>{{ .Title }}</h1>
+  <a class="cv-open" href="{{ $pdf }}" target="_blank" rel="noopener">Open PDF &nearr;</a>
+</header>
+<div class="cv-viewer" role="region" aria-label="Curriculum vitae of Xi (Xavier) Zhang" tabindex="0" aria-busy="true"
+  data-pdf="{{ $pdf }}"
+  data-renderer="{{ "vendor/pdfjs/5.6.205/pdf.min.mjs" | relURL }}"
+  data-worker="{{ "vendor/pdfjs/5.6.205/pdf.worker.min.mjs" | relURL }}">
+  <p class="cv-status" role="status">Loading CV&hellip;</p>
+  <noscript><p class="cv-status">Please <a href="{{ $pdf }}">open the PDF</a> to read the CV.</p></noscript>
+</div>
+{{ $script := resources.Get "js/cv.js" | minify | fingerprint }}
+<script type="module" src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" crossorigin="anonymous"></script>
+{{ end }}

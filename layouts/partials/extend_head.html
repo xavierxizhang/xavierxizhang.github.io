@@ -1,0 +1,4 @@
+{{ if eq .Section "cv" }}
+  {{ $css := resources.Get "css/cv.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" crossorigin="anonymous">
+{{ end }}

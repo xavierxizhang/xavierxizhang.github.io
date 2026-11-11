@@ -1,0 +1,88 @@
+.main {
+  --main-width: 1024px;
+}
+
+.cv-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 24px;
+  margin: 24px 0;
+}
+
+.cv-open {
+  color: var(--secondary);
+  font-size: 16px;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  white-space: nowrap;
+}
+
+.cv-open:hover {
+  color: var(--primary);
+}
+
+.cv-viewer {
+  height: calc(100vh - 200px);
+  min-height: 720px;
+  overflow: auto;
+  overscroll-behavior-y: contain;
+  scrollbar-gutter: stable;
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: #e5e5e5;
+  color: #222;
+  color-scheme: light;
+}
+
+.cv-viewer:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 4px;
+}
+
+.cv-page {
+  position: relative;
+  margin-bottom: 16px;
+  background: #fff;
+  box-shadow: 0 1px 5px #0002;
+}
+
+.cv-page:last-child {
+  margin-bottom: 0;
+}
+
+.cv-page canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.cv-page-text {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+}
+
+.cv-status {
+  padding: 24px;
+  text-align: center;
+}
+
+.cv-status a {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .cv-header {
+    margin-top: 12px;
+  }
+
+  .cv-viewer {
+    height: 80vh;
+    min-height: 540px;
+    padding: 8px;
+  }
+}
